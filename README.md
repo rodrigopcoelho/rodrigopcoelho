@@ -1,6 +1,6 @@
-<img src="./src/banner.png">
+<img src="https://i.ibb.co/QrH390J/banner.png">
 
-<img alt="Hand Wave Emoji" src="./src/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Hand Wave Emoji" src="https://i.ibb.co/XW2xZvG/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rodrigo Coelho-->
 
@@ -11,9 +11,9 @@
 🌱 &nbsp;In order to expand my skillset and embrace new frontiers, I am currently studying Three.js, Electron.js, and Backend Development.\
 ✍️ &nbsp;Among my hobbies/side hustles are Illustrations, 3D Art, and Concept Art.\
 💬 &nbsp;Ask me about my projects, coding adventures, or anything tech-related! I'm here to share knowledge and discuss exciting ideas.\
-📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://i.ibb.co/Wvb9PVB/CV-Rodrigo-Coelho-compactado.jpg) and my  [Portfolio](https://i.ibb.co/mH3bX9L/portfolio-compactado.jpg)  for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Meme" src="./src/meme.png" align="right"/>
+<img alt="Meme" src="https://i.ibb.co/Fw8fTF2/meme.png" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
