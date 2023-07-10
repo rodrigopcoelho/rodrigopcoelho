@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/QrH390J/banner.png">
 
+
 <img alt="Hand Wave Emoji" src="https://i.ibb.co/XW2xZvG/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rodrigo Coelho</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rodrigo Coelho-->
