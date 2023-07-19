@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/rodrigopcoelho">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopcoelho&show_icons=true&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopcoelho&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigopcoelho&layout=compact&langs_count=8&theme=cobalt"/>
 </a>
 </p>
