@@ -11,7 +11,7 @@
 🎓 &nbsp;Bootcamp in Full Stack and Web Development at the Le Wagon.\
 ✍️ &nbsp;Among my hobbies/side hustles are Web Design, Illustrations and Concept Art.\
 💬 &nbsp;Ask me about my projects, coding adventures, or anything tech-related! I'm here to share knowledge and discuss exciting ideas.\
-📄 &nbsp;Please have a look at my [Résumé](https://i.ibb.co/Wvb9PVB/CV-Rodrigo-Coelho-compactado.jpg) and my  [Portfolio](https://i.ibb.co/mH3bX9L/portfolio-compactado.jpg)  for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://i.ibb.co/Wvb9PVB/CV-Rodrigo-Coelho-compactado.jpg) and my  [Portfolio]([https://i.ibb.co/mH3bX9L/portfolio-compactado.jpg](https://rodrigopcoelho.github.io))  for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
